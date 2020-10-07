@@ -11,6 +11,7 @@
 	getch();
 	system("cls");
 	printf("Hola mundo\n");
+printf("\nHector Alan Padilla Zacarias\n");
 	getch();
 	return 0;	
 }
